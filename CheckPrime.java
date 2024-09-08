@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class CheckPrime 
+class CheckPrime
 {
 public static void main(String args[])
 {
